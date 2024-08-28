@@ -1,0 +1,10 @@
+48f6238658d1b36ee28bf9d93063eef8 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+8c562005f89aa32096a3006e57e9ccff *R/capesData.R
+7d7b2916f5e713e4c706d8276bdd3d5c *R/capesData_raw.R
+ff6e6faedabd7dab306c99a339074a9c *README.md
+4e6d0fd9bb07afab0134bcc211b94174 *data/capesData.rda
+22c53850cf4f7899c12694e3858f7abf *data/capesData_raw.rda
+2a1ec99fd4076c801df3ada5f46391c1 *man/capesData.Rd
+52b551adcc7892f6efada6b5a1cc71c1 *man/capesData_raw.Rd
+2e990a6eb943961f12ef4acfa922a638 *man/figures/logo.png
